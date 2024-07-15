@@ -33,6 +33,7 @@ Then, start the production server with:
 
 npm run start
 
+The website will be up and running on port 3000.
 
 Server Configuration
 For server configuration, navigate to the Server folder and run:
