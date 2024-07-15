@@ -27,7 +27,7 @@ const Modal = ({ closeModal }: modalProps) => {
     return (
         <div className="modal-overlay">
             <div className="modal">
-                <button className="close-button" onClick={closeModal}>&times</button>
+                <button className="close-button" onClick={closeModal}>&times;</button>
                 <div className="modal-content">
                     <p>Select a token to know its price:</p>
                     <form onSubmit={handleSubmit}>
