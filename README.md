@@ -37,7 +37,11 @@ npm run start
 Server Configuration
 For server configuration, navigate to the Server folder and run:
 
-cd server
+cd Server
+
+Install Dependencies of server: npm install
+
+Run:
 node index.js
 This will start the server and make it up and running.
 
